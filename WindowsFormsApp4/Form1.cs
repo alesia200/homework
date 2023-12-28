@@ -87,6 +87,16 @@ namespace WindowsFormsApp4
                 MessageBox.Show("Введены некорректные данные!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             };
         }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            textBox1.Text = textBox1.Text.Replace(',', '.');
+            textBox2.Text = textBox2.Text.Replace(',', '.');
+            a = Convert.ToDouble(textBox1.Text, fmt);
+            b = Convert.ToDouble(textBox2.Text, fmt);
+            label1.Text = Convert.ToString(Math.Pow(a,b));
+        }
+
         private void button5_Click(object sender, EventArgs e)
         {
             textBox1.Clear();

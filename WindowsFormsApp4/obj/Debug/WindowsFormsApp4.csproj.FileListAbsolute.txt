@@ -18,3 +18,14 @@ E:\УЧЕБА\2 курс\ПрогаАлеся\WindowsFormsApp4\WindowsFormsApp4\
 E:\УЧЕБА\2 курс\ПрогаАлеся\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
 E:\УЧЕБА\2 курс\ПрогаАлеся\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
 E:\УЧЕБА\2 курс\ПрогаАлеся\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\kmasr\OneDrive\Документы\ТехПрог\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\kmasr\OneDrive\Документы\ТехПрог\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\kmasr\OneDrive\Документы\ТехПрог\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\kmasr\OneDrive\Документы\ТехПрог\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+C:\Users\kmasr\OneDrive\Документы\ТехПрог\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.SuggestedBindingRedirects.cache
+C:\Users\kmasr\OneDrive\Документы\ТехПрог\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\kmasr\OneDrive\Документы\ТехПрог\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\kmasr\OneDrive\Документы\ТехПрог\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\kmasr\OneDrive\Документы\ТехПрог\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\kmasr\OneDrive\Документы\ТехПрог\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\kmasr\OneDrive\Документы\ТехПрог\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
