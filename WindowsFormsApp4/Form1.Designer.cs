@@ -40,6 +40,7 @@ namespace WindowsFormsApp4
             this.label2 = new System.Windows.Forms.Label();
             this.button6 = new System.Windows.Forms.Button();
             this.button7 = new System.Windows.Forms.Button();
+            this.label3 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // textBox1
@@ -153,11 +154,21 @@ namespace WindowsFormsApp4
             this.button7.UseVisualStyleBackColor = true;
             this.button7.Click += new System.EventHandler(this.button7_Click);
             // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(173, 36);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(127, 20);
+            this.label3.TabIndex = 11;
+            this.label3.Text = "КАЛЬКУЛЯТОР";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(477, 386);
+            this.Controls.Add(this.label3);
             this.Controls.Add(this.button7);
             this.Controls.Add(this.button6);
             this.Controls.Add(this.label2);
@@ -189,6 +200,7 @@ namespace WindowsFormsApp4
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Button button6;
         private System.Windows.Forms.Button button7;
+        private System.Windows.Forms.Label label3;
     }
 }
 
